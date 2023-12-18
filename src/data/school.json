@@ -1,0 +1,43 @@
+
+{
+    "data": [
+        {
+            "id":"1",
+            "fk_state_id":"1",
+            "fk_city_id":"1",
+            "name":"Abc1"
+        },
+        {
+            "id":"1",
+            "fk_state_id":"1",
+            "fk_city_id":"1",
+            "name":"Abc2"
+        },
+        {
+            "id":"1",
+            "fk_state_id":"1",
+            "fk_city_id":"2",
+            "name":"ABCDW1"
+        },
+        {
+            "id":"1",
+            "fk_state_id":"1",
+            "fk_city_id":"2",
+            "name":"AVFD3"
+        },
+        {
+            "id":"1",
+            "fk_state_id":"2",
+            "fk_city_id":"3",
+            "name":"ASDF2"
+        },
+        {
+            "id":"1",
+            "fk_state_id":"2",
+            "fk_city_id":"3",
+            "name":"ASLOKH1"
+        }
+    ]
+}
+    
+

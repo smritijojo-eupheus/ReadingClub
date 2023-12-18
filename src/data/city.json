@@ -1,0 +1,37 @@
+
+{
+    "data": [
+        {
+            "id":"1",
+            "fk_state_id":"1",
+            "name":"sarita viahr"
+        },
+        {
+            "id":"2",
+            "fk_state_id":"1",
+            "name":"Bardarpur border"
+        },
+        {
+            "id":"3",
+            "fk_state_id":"2",
+            "name":"lucknow"
+        },
+        {
+            "id":"4",
+            "fk_state_id":"2",
+            "name":"Agra"
+        },
+        {
+            "id":"5",
+            "fk_state_id":"3",
+            "name":"Bhind"
+        },
+        {
+            "id":"6",
+            "fk_state_id":"3",
+            "name":"gwalior"
+        }
+    ]
+}
+    
+
